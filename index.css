@@ -1,0 +1,40 @@
+.param{
+    color: yellow;
+    background-color: powderblue;
+    font-size: 45px;
+}
+.param1{
+    width: 100px;
+    height: 80px;
+    border: 2px solid red;
+    padding: 20px;
+    margin: 30px;
+}
+.param3{
+    width: 200px;
+    background-color: tomato;
+    height: 180px;
+    border: 10px double hotpink;
+}
+.param4{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: red;
+}
+.abc{
+    color: red;
+    background-color: yellow;
+}
+.xyz{
+    color: orange;
+    background-color: aqua;
+}
+#ak{
+color: chartreuse;
+background: red;
+}
+#hj{
+    color: khaki;
+    background-color: blue;
+}
